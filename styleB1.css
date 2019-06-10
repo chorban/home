@@ -1,0 +1,27 @@
+/*All CSS specific to page 1*/ 
+h1
+{
+	color: black;
+}
+
+h3
+{
+	color: red;
+	text-align: center
+}
+
+/*Create borders for images with class "Border"*/
+.Border
+{
+	border-style: solid;
+	border-color: black;
+	border-width: 5px;
+	padding: 2%;
+	margin: 1%;
+}
+
+#RelativeLink
+{
+	font-size: 22px;
+}
+

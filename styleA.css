@@ -1,0 +1,12 @@
+/*General CSS for page 1 and 2*/
+body
+{
+	background-color: rgb(255, 182, 193);
+	font-family: Verdana, Serif;
+	color: purple;
+}
+
+#Sources
+{
+	font-size: 8px;
+}
